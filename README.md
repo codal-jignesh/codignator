@@ -1,0 +1,2 @@
+# codignator
+codignator setup
